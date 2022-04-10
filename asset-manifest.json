@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rodrigomport/static/css/main.8a91b984.css",
+    "main.js": "/rodrigomport/static/js/main.9eb079f0.js",
+    "static/media/34.png": "/rodrigomport/static/media/34.8b99c0bda195c555e1cd.png",
+    "static/media/35.png": "/rodrigomport/static/media/35.3ada799c55f93f227a92.png",
+    "index.html": "/rodrigomport/index.html",
+    "main.8a91b984.css.map": "/rodrigomport/static/css/main.8a91b984.css.map",
+    "main.9eb079f0.js.map": "/rodrigomport/static/js/main.9eb079f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a91b984.css",
+    "static/js/main.9eb079f0.js"
+  ]
+}
